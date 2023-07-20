@@ -5,7 +5,6 @@ I'm a second year computer science student at the University of Toronto with an 
 
 Feel free to visit my personal website at http://mahekcheema.duckdns.org:5000/
 
-<iframe src="https://gifer.com/embed/Mc28" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
 *ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･
 
