@@ -1,4 +1,7 @@
-### Hi there 👋
+*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･
+## Hi, I'm Mahek
+
+I'm a second year computer science student at the University of Toronto with an interest in artificial intelligence!
 
 <!--
 **mmahekk/mmahekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
