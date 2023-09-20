@@ -3,8 +3,6 @@
 
 I'm a second year computer science student at the University of Toronto with an interest in artificial intelligence! 
 
-Feel free to visit my personal website at http://mahekcheema.duckdns.org:5000/
-
 
 *ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:
 
