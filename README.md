@@ -1,7 +1,7 @@
 *ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:
 ## Hi, I'm Mahek! :)
 
-I'm a second year computer science student at the University of Toronto with an interest in artificial intelligence! 
+I'm a second year computer science student at the University of Toronto with an interest in back-end development!
 
 
 *ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:
