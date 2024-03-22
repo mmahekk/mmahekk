@@ -6,4 +6,4 @@ I'm a second year computer science student at the University of Toronto with an 
 
 *ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:
 
-![Mahek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmahekk&show_icons=true&theme=radical)
+![Mahek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmahekk&show_icons=true&theme=prussian)
