@@ -9,7 +9,7 @@
 
 ༄ Interested in systems engineering & back-end development
 
-༄ Currently know: Python, Java, C, Bash, Assembly, R, SQL
+༄ Currently know: Python, Java, C, Bash, MIPS Assembly, R, SQL
 
 ![Mahek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmahekk&show_icons=true&theme=prussian)
 
