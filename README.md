@@ -7,9 +7,9 @@
 
 ༄ 3rd year Computer Science Student @ University of Toronto
 
-༄ Interested in systems engineering & back-end development
+༄ Interested in artificial intelligence & back-end development 
 
-༄ Currently know: Python, Java, C, Bash, MIPS Assembly, R, SQL, TypeScript
+༄ Currently know: Python, Java, C, MIPS Assembly, R, SQL, TypeScript
 
 ![Mahek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmahekk&show_icons=true&theme=prussian)
 
