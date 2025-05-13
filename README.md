@@ -11,6 +11,8 @@
 
 ༄ Currently know: Python, Java, C, MIPS Assembly, R, SQL, TypeScript
 
+༄ Check out my [portfolio website](https://mahekcheema.xyz/) for more about my skills and experience! :p
+
 ![Mahek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmahekk&show_icons=true&theme=prussian)
 
 *ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:･*ೃ༄.ೃ࿐*ੈ✩‧₊˚⋆.ೃ࿔*:
