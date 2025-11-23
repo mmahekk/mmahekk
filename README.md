@@ -5,7 +5,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-༄ 3rd year Computer Science Student @ University of Toronto
+༄ 4th year Computer Science Student @ University of Toronto
 
 ༄ Interested in artificial intelligence & back-end development 
 
